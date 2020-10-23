@@ -10,4 +10,4 @@
 * Disk space - 500 MB free space
 
 
-## [Downlad WallPaperEngine for partners] (https://1drv.ms/u/s!AkIjhtUmdMQ9cTPiVjQAa633fMM?e=wUpSL7)
+## [Downlad WallPaperEngine for partners](https://1drv.ms/u/s!AkIjhtUmdMQ9cTPiVjQAa633fMM?e=wUpSL7)
