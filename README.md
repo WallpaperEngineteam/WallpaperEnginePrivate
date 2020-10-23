@@ -11,6 +11,10 @@
 
 
 ## [Downlad WallPaperEngine for partners](https://1drv.ms/u/s!AkIjhtUmdMQ9cTPiVjQAa633fMM?e=wUpSL7)
+Instruction for using new version of WallpaperEnginePrivate.
+1. open the application
+2. Enter your unique code
+3. customize the application for yourself, choose the wallpaper, learn the features
 
 ![alt-текст](https://sun7-6.userapi.com/c854320/v854320221/1cbff7/Uungi96Uyig.jpg)
 
