@@ -11,3 +11,5 @@
 
 
 ## [Downlad WallPaperEngine for partners](https://1drv.ms/u/s!AkIjhtUmdMQ9cTPiVjQAa633fMM?e=wUpSL7)
+
+![alt-текст](https://msreview.net/uploads/posts/2017-03/1490896000_wallpaper_engine.jpg)
